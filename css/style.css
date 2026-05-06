@@ -163,7 +163,7 @@ p{
 .home-img{
     text-align: center;
     min-height: 100vh;
-    background-image: url(../images/home-img/Breakpoint=Desktop.png);
+    background-image: url(https://raw.githubusercontent.com/username/repo/main/images/home-img/Breakpoint=Desktop.png);
     background-repeat: no-repeat;
     background-position: center top;
 }
